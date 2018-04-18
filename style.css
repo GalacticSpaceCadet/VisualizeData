@@ -1,0 +1,13 @@
+body{
+background:#ededed;
+max-width: 100%;
+overflow-x: hidden;
+}
+
+.container{
+	background: white;
+}
+
+.navbar-brand{
+	margin-left: 20em;
+}
